@@ -36,6 +36,7 @@ In this lab, you will be extending the IndyCar example from class using composit
     <li>name (required)</li>
     <li>drivers: Ensure that a team can have multiple drivers. (Hint: you will need to choose either composition or aggregation. Only one approach will be correct.)</li>
     <li>add_driver() method: adds a driver to the team.</li>
+	<li>remove_driver() method: removes a driver from the team. </li>
     <li>list_drivers() method: returns the names of all the drivers on the team.</li>
   </ol>
   <br>
